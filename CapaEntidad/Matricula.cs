@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace CapaEntidad
 {
-    internal class Matricula
+    public class Matricula
     {
+        public int EnrollmentID { get; set; }
+        public string Periodo { get; set; }
+        public int? Promedio { get; set; }
+        public int CourseID { get; set; }
+        public int StudentID { get; set; }
+
+        // Relaciones
+        public Estudiante Estudiante { get; set; }
+        public Asignatura Asignatura { get; set; }
     }
 }
