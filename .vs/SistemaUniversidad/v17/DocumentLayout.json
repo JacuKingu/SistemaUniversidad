@@ -1,36 +1,172 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\",
+  "WorkspaceRootPath": "C:\\Users\\vilca\\Desktop\\examen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|c:\\ingenieria web - 9no semestre\\sistemauniversidad\\capanegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vilca\\Desktop\\examen\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C5679-4351-4500-B386-8D6AAC42ABDF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\vilca\\desktop\\examen\\capapresentacion\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B1C5679-4351-4500-B386-8D6AAC42ABDF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C5679-4351-4500-B386-8D6AAC42ABDF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\vilca\\desktop\\examen\\capapresentacion\\estudiante.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C5679-4351-4500-B386-8D6AAC42ABDF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\estudiante.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C5679-4351-4500-B386-8D6AAC42ABDF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\vilca\\desktop\\examen\\capapresentacion\\estudiante.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B1C5679-4351-4500-B386-8D6AAC42ABDF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\estudiante.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C5679-4351-4500-B386-8D6AAC42ABDF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\vilca\\desktop\\examen\\capapresentacion\\matricula.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C5679-4351-4500-B386-8D6AAC42ABDF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\matricula.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C5679-4351-4500-B386-8D6AAC42ABDF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\vilca\\desktop\\examen\\capapresentacion\\matricula.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B1C5679-4351-4500-B386-8D6AAC42ABDF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\matricula.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C5679-4351-4500-B386-8D6AAC42ABDF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\vilca\\desktop\\examen\\capapresentacion\\asignatura.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C5679-4351-4500-B386-8D6AAC42ABDF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\asignatura.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C5679-4351-4500-B386-8D6AAC42ABDF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\vilca\\desktop\\examen\\capapresentacion\\asignatura.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B1C5679-4351-4500-B386-8D6AAC42ABDF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\asignatura.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FFA6C9-14F6-420D-B7D7-A994B9106485}|CapaDato\\CapaDato.csproj|C:\\Users\\vilca\\Desktop\\examen\\capadato\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FFA6C9-14F6-420D-B7D7-A994B9106485}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\vilca\\desktop\\examen\\capanegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E94478C-1C83-4E0E-BB7C-0F9530F5BEBC}|CapaEntidad\\CapaEntidad.csproj|c:\\ingenieria web - 9no semestre\\sistemauniversidad\\capaentidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E94478C-1C83-4E0E-BB7C-0F9530F5BEBC}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\vilca\\Desktop\\examen\\capaentidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E94478C-1C83-4E0E-BB7C-0F9530F5BEBC}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18FFA6C9-14F6-420D-B7D7-A994B9106485}|CapaDato\\CapaDato.csproj|c:\\ingenieria web - 9no semestre\\sistemauniversidad\\capadato\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18FFA6C9-14F6-420D-B7D7-A994B9106485}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedHeight": 200,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\vilca\\Desktop\\examen\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\vilca\\Desktop\\examen\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T20:13:49.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiante.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vilca\\Desktop\\examen\\CapaPresentacion\\Estudiante.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Estudiante.aspx.cs",
+              "ToolTip": "C:\\Users\\vilca\\Desktop\\examen\\CapaPresentacion\\Estudiante.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\Estudiante.aspx.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAowHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:11:39.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Matricula.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vilca\\Desktop\\examen\\CapaPresentacion\\Matricula.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Matricula.aspx.cs",
+              "ToolTip": "C:\\Users\\vilca\\Desktop\\examen\\CapaPresentacion\\Matricula.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\Matricula.aspx.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAowHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:10:40.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Asignatura.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vilca\\Desktop\\examen\\CapaPresentacion\\Asignatura.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Asignatura.aspx.cs",
+              "ToolTip": "C:\\Users\\vilca\\Desktop\\examen\\CapaPresentacion\\Asignatura.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\Asignatura.aspx.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAowHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:06:01.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\Users\\vilca\\Desktop\\examen\\CapaPresentacion\\index.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\index.aspx",
+              "ToolTip": "C:\\Users\\vilca\\Desktop\\examen\\CapaPresentacion\\index.aspx",
+              "RelativeToolTip": "CapaPresentacion\\index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T19:44:59.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Matricula.aspx",
+              "DocumentMoniker": "C:\\Users\\vilca\\Desktop\\examen\\CapaPresentacion\\Matricula.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Matricula.aspx",
+              "ToolTip": "C:\\Users\\vilca\\Desktop\\examen\\CapaPresentacion\\Matricula.aspx",
+              "RelativeToolTip": "CapaPresentacion\\Matricula.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T19:52:04.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Asignatura.aspx",
+              "DocumentMoniker": "C:\\Users\\vilca\\Desktop\\examen\\CapaPresentacion\\Asignatura.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Asignatura.aspx",
+              "ToolTip": "C:\\Users\\vilca\\Desktop\\examen\\CapaPresentacion\\Asignatura.aspx",
+              "RelativeToolTip": "CapaPresentacion\\Asignatura.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T19:51:48.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estudiante.aspx",
+              "DocumentMoniker": "C:\\Users\\vilca\\Desktop\\examen\\CapaPresentacion\\Estudiante.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Estudiante.aspx",
+              "ToolTip": "C:\\Users\\vilca\\Desktop\\examen\\CapaPresentacion\\Estudiante.aspx",
+              "RelativeToolTip": "CapaPresentacion\\Estudiante.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T19:51:35.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vilca\\Desktop\\examen\\CapaNegocio\\Class1.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\Class1.cs",
-              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\Class1.cs",
+              "ToolTip": "C:\\Users\\vilca\\Desktop\\examen\\CapaNegocio\\Class1.cs",
               "RelativeToolTip": "CapaNegocio\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -39,11 +175,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaEntidad\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vilca\\Desktop\\examen\\CapaEntidad\\Class1.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\Class1.cs",
-              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaEntidad\\Class1.cs",
+              "ToolTip": "C:\\Users\\vilca\\Desktop\\examen\\CapaEntidad\\Class1.cs",
               "RelativeToolTip": "CapaEntidad\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,11 +188,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaDato\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vilca\\Desktop\\examen\\CapaDato\\Class1.cs",
               "RelativeDocumentMoniker": "CapaDato\\Class1.cs",
-              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaDato\\Class1.cs",
+              "ToolTip": "C:\\Users\\vilca\\Desktop\\examen\\CapaDato\\Class1.cs",
               "RelativeToolTip": "CapaDato\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
