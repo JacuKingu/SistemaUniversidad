@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|c:\\ingenieria web - 9no semestre\\sistemauniversidad\\capanegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|c:\\ingenieria web - 9no semestre\\sistemauniversidad\\capanegocio\\matriculabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\matriculabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E94478C-1C83-4E0E-BB7C-0F9530F5BEBC}|CapaEntidad\\CapaEntidad.csproj|c:\\ingenieria web - 9no semestre\\sistemauniversidad\\capaentidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E94478C-1C83-4E0E-BB7C-0F9530F5BEBC}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|c:\\ingenieria web - 9no semestre\\sistemauniversidad\\capanegocio\\asignaturabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\asignaturabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18FFA6C9-14F6-420D-B7D7-A994B9106485}|CapaDato\\CapaDato.csproj|c:\\ingenieria web - 9no semestre\\sistemauniversidad\\capadato\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18FFA6C9-14F6-420D-B7D7-A994B9106485}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|c:\\ingenieria web - 9no semestre\\sistemauniversidad\\capanegocio\\estudiantebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\estudiantebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|c:\\ingenieria web - 9no semestre\\sistemauniversidad\\capanegocio\\interface\\iestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\interface\\iestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|c:\\ingenieria web - 9no semestre\\sistemauniversidad\\capanegocio\\interface\\iasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\interface\\iasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|c:\\ingenieria web - 9no semestre\\sistemauniversidad\\capanegocio\\interface\\imatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\interface\\imatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\Class1.cs",
-              "RelativeDocumentMoniker": "CapaNegocio\\Class1.cs",
-              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\Class1.cs",
-              "RelativeToolTip": "CapaNegocio\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "IAsignatura.cs",
+              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\Interface\\IAsignatura.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Interface\\IAsignatura.cs",
+              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\Interface\\IAsignatura.cs",
+              "RelativeToolTip": "CapaNegocio\\Interface\\IAsignatura.cs",
+              "ViewState": "AQIAAAQAAAAAMzMzMzMLwBAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T19:25:23.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaEntidad\\Class1.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Class1.cs",
-              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaEntidad\\Class1.cs",
-              "RelativeToolTip": "CapaEntidad\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T19:25:05.423Z",
+              "WhenOpened": "2024-06-04T19:48:11.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaDato\\Class1.cs",
-              "RelativeDocumentMoniker": "CapaDato\\Class1.cs",
-              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaDato\\Class1.cs",
-              "RelativeToolTip": "CapaDato\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "EstudianteBL.cs",
+              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\EstudianteBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\EstudianteBL.cs",
+              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\EstudianteBL.cs",
+              "RelativeToolTip": "CapaNegocio\\EstudianteBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T19:24:50.579Z",
+              "WhenOpened": "2024-06-04T19:45:15.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMatricula.cs",
+              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\Interface\\IMatricula.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Interface\\IMatricula.cs",
+              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\Interface\\IMatricula.cs",
+              "RelativeToolTip": "CapaNegocio\\Interface\\IMatricula.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:49:47.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEstudiante.cs",
+              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\Interface\\IEstudiante.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Interface\\IEstudiante.cs",
+              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\Interface\\IEstudiante.cs",
+              "RelativeToolTip": "CapaNegocio\\Interface\\IEstudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:47:04.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatriculaBL.cs",
+              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\MatriculaBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\MatriculaBL.cs",
+              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\MatriculaBL.cs",
+              "RelativeToolTip": "CapaNegocio\\MatriculaBL.cs",
+              "ViewState": "AQIAABIAAAAAzczMzMwQwDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:45:51.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsignaturaBL.cs",
+              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\AsignaturaBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\AsignaturaBL.cs",
+              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\AsignaturaBL.cs",
+              "RelativeToolTip": "CapaNegocio\\AsignaturaBL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:45:31.208Z",
               "EditorCaption": ""
             }
           ]
