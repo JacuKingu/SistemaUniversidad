@@ -7,6 +7,10 @@ using System.Linq;
 using System.Web;
 using System.Web.Services;
 
+using CapaNegocio;
+using CapaDato;
+using CapaEntidad;
+
 namespace CapaServicio
 {
     /// <summary>
@@ -35,6 +39,8 @@ namespace CapaServicio
                 adapter.Fill(tabla);
                 return tabla;
             }
+            // EstudianteBL estudianteBl = new EstudianteBL();
+            // return estudianteBl.Listar()
         }
         [WebMethod]
         public bool Insertar(string codEstudiante, string nombres) {
@@ -53,6 +59,39 @@ namespace CapaServicio
             }
         }
 
+        [WebMethod]
+        public bool Actualizar(string codEstudiante, string nombres)
+            {
+                using (SqlConnection conexion = new SqlConnection(cadena))
+                {
+                    string consulta = "UPDATE estudiante SET nomb_est = @Nombres WHERE cod_est = @CodEstudiante";
+                    SqlCommand comando = new SqlCommand(consulta, conexion);
+                    comando.Parameters.AddWithValue("@CodEstudiante", codEstudiante);
+                    comando.Parameters.AddWithValue("@Nombres", nombres);
+                    conexion.Open();
+                    byte i = Convert.ToByte(comando.ExecuteNonQuery());
+                    conexion.Close();
+                    if (i == 1) return true;
+                    else return false;
+                }
+            }
+
+        [WebMethod]
+        public bool Eliminar(string codEstudiante)
+        {
+            using (SqlConnection conexion = new SqlConnection(cadena))
+            {
+                string consulta = "DELETE FROM estudiante WHERE cod_est = @CodEstudiante";
+
+                SqlCommand comando = new SqlCommand(consulta, conexion);
+                comando.Parameters.AddWithValue("@CodEstudiante", codEstudiante);
+                conexion.Open();
+                byte i = Convert.ToByte(comando.ExecuteNonQuery());
+                conexion.Close();
+                if (i == 1) return true;
+                else return false;
+            }
+        }
 
     }
 }
