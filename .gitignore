@@ -1,7 +1,8 @@
-﻿################################################################################
-# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
-################################################################################
-
+﻿# Carpeta bin generada por compilaciones
 bin/
+
+# Carpeta obj generada por compilaciones
 obj/
+
+# Carpeta .vs generada por Visual Studio
 .vs/
