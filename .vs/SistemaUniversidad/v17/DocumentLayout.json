@@ -3,8 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\burro\\source\\repos\\SistemaUniversidad\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{F18D3246-9AFC-4F49-B16F-796332B3D3B7}|CapaServicio\\CapaServicio.csproj|c:\\users\\burro\\source\\repos\\sistemauniversidad\\capaservicio\\wsestudiante.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F18D3246-9AFC-4F49-B16F-796332B3D3B7}|CapaServicio\\CapaServicio.csproj|solutionrelative:capaservicio\\wsestudiante.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|c:\\ingenieria web - 9no semestre\\sistemauniversidad\\capanegocio\\asignaturabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B5D71-E003-46A8-8650-269B3E4E31B7}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\asignaturabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CapaNegocio\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaEntidad\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CapaEntidad\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaDato\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CapaDato\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> main
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +39,16 @@
             },
             {
               "$type": "Bookmark",
+<<<<<<< HEAD
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+=======
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+>>>>>>> main
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "wsEstudiante.asmx.cs",
               "DocumentMoniker": "C:\\Users\\burro\\source\\repos\\SistemaUniversidad\\CapaServicio\\wsEstudiante.asmx.cs",
               "RelativeDocumentMoniker": "CapaServicio\\wsEstudiante.asmx.cs",
@@ -36,6 +58,52 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T20:24:38.399Z",
               "EditorCaption": ""
+=======
+              "Title": "AsignaturaBL.cs",
+              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\AsignaturaBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\AsignaturaBL.cs",
+              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\AsignaturaBL.cs",
+              "RelativeToolTip": "CapaNegocio\\AsignaturaBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:17:03.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\Class1.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Class1.cs",
+              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaNegocio\\Class1.cs",
+              "RelativeToolTip": "CapaNegocio\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:16:55.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaEntidad\\Class1.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Class1.cs",
+              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaEntidad\\Class1.cs",
+              "RelativeToolTip": "CapaEntidad\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:16:55.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaDato\\Class1.cs",
+              "RelativeDocumentMoniker": "CapaDato\\Class1.cs",
+              "ToolTip": "C:\\Ingenieria Web - 9no semestre\\SistemaUniversidad\\CapaDato\\Class1.cs",
+              "RelativeToolTip": "CapaDato\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:16:55.298Z"
+>>>>>>> main
             }
           ]
         }
